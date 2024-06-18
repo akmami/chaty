@@ -87,6 +87,7 @@ target/
 #   For a library or package, you might want to ignore these files since the code is intended to run in different environments.
 #   The compiled .pyc files will typically be automatically created in your development environment but not when your code is run in another environment.
 .pyenv
+developement.py
 
 # Celery stuff
 celerybeat-schedule
